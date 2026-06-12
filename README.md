@@ -1,5 +1,4 @@
-````markdown
-# <div align="center">
+ <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,25:1E1B4B,50:4C1D95,75:6D28D9,100:8B5CF6&text=Mayank%20Kamdi&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"/>
 
@@ -334,5 +333,5 @@ Open To:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,25:1E1B4B,50:4C1D95,75:6D28D9,100:8B5CF6"/>
 
 </div>
-```
+
 
