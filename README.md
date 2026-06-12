@@ -1,44 +1,48 @@
+Save the following as **README.md**:
+
+````markdown
 # <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,30:312E81,60:6D28D9,100:8B5CF6&text=YOUR%20NAME&fontSize=55&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,25:1E1B4B,50:4C1D95,75:6D28D9,100:8B5CF6&text=Mayank%20Kamdi&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Building+Scalable+Products;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=950&lines=Software+Engineering+Student;AI+%26+Machine+Learning+Builder;Full+Stack+Developer;Founder+of+Athira+NEXUS;Building+Intelligent+Digital+Products;Open+Source+Contributor"/>
 
 <br/>
 
 ![](https://img.shields.io/badge/B.Tech-Engineering-6D28D9?style=for-the-badge)
-![](https://img.shields.io/badge/AI%20%7C%20ML-Specialist-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/Artificial%20Intelligence-Engineer-7C3AED?style=for-the-badge)
 ![](https://img.shields.io/badge/Full%20Stack-Developer-8B5CF6?style=for-the-badge)
-![](https://img.shields.io/badge/Product-Engineer-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/Product-Builder-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/Open%20Source-Contributor-312E81?style=for-the-badge)
 
 <br/>
 
 ![](https://img.shields.io/badge/Location-India-312E81?style=flat-square)
-![](https://img.shields.io/badge/Open%20To-Internships%20%7C%20Full%20Time-7C3AED?style=flat-square)
+![](https://img.shields.io/badge/Open%20To-Internships%20%7C%20AI%20Roles-7C3AED?style=flat-square)
 
 <br/><br/>
 
-<a href="https://yourportfolio.com">
+<a href="https://portfolio-website-specalised-person.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/mayank-kamdi">
 <img src="https://img.shields.io/badge/LinkedIn-312E81?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:kamdimayank20@gmail.com">
 <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/Mayank-Kamdi">
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-![](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=7C3AED)
-![](https://img.shields.io/github/followers/yourusername?style=flat-square&color=6D28D9)
-![](https://img.shields.io/github/stars/yourusername?style=flat-square&color=8B5CF6)
+![](https://komarev.com/ghpvc/?username=Mayank-Kamdi&style=flat-square&color=7C3AED)
+![](https://img.shields.io/github/followers/Mayank-Kamdi?style=flat-square&color=6D28D9)
+![](https://img.shields.io/github/stars/Mayank-Kamdi?style=flat-square&color=8B5CF6)
 
 </div>
 
@@ -46,18 +50,16 @@
 
 # About Me
 
-Software Engineer with a strong focus on building scalable applications, intelligent systems, and enterprise-grade software solutions. Passionate about designing high-performance products that combine clean architecture, modern engineering practices, and data-driven decision making.
+Software Engineering student passionate about building scalable software systems, AI-powered applications, and modern digital products.
 
-My interests span across Software Engineering, Artificial Intelligence, Machine Learning, Full Stack Development, Cloud Infrastructure, and Product Engineering. I enjoy transforming complex problems into practical and scalable solutions while continuously exploring emerging technologies.
+Currently building AI-first products, computer vision systems, productivity platforms, and developer-focused tools while strengthening expertise in Software Engineering, Artificial Intelligence, Machine Learning, and Full Stack Development.
 
-### Open To
-
+**Open To**
 - Software Engineering Internships
 - AI / ML Engineering Roles
 - Full Stack Development Opportunities
 - Open Source Collaboration
-- Research & Innovation Projects
-- Product Development Teams
+- Startup Product Teams
 
 ---
 
@@ -66,25 +68,25 @@ My interests span across Software Engineering, Artificial Intelligence, Machine 
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,go" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript" />
 </p>
 
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,redux,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
 </p>
 
 ### Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,mysql,postgresql,mongodb,redis" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase,supabase" />
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux,nginx,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
 </p>
 
 ---
@@ -93,120 +95,80 @@ My interests span across Software Engineering, Artificial Intelligence, Machine 
 
 | Domain | Proficiency | Details |
 |----------|------------|----------|
-| Machine Learning | Advanced | Supervised, Unsupervised, Ensemble Learning |
-| Deep Learning | Advanced | CNNs, RNNs, Transformers |
-| Generative AI | Advanced | LLMs, RAG Systems, Prompt Engineering |
-| NLP | Advanced | Text Classification, Embeddings, Semantic Search |
-| Computer Vision | Intermediate | Object Detection, Classification |
-| MLOps | Intermediate | MLflow, Docker, CI/CD Pipelines |
-| Data Engineering | Intermediate | ETL Pipelines, Data Processing |
-| AI Product Development | Advanced | End-to-End AI Application Design |
+| Machine Learning | Intermediate | Classification, Regression, Model Development |
+| Deep Learning | Intermediate | CNNs, Neural Networks |
+| Computer Vision | Intermediate | OpenCV, Gesture Recognition |
+| Generative AI | Advanced | AI Assistants, Prompt Engineering |
+| NLP | Intermediate | Language Models & Conversational Systems |
+| AI Product Development | Advanced | Product-Oriented AI Solutions |
+| Automation Systems | Advanced | Productivity Automation |
+| Full Stack AI Systems | Intermediate | AI + Backend + Frontend Integration |
 
 ---
 
 # Featured Projects
 
 <details>
-<summary><b>AI Productivity Assistant</b></summary>
+<summary><b>CV Focus Guard AI Pomodoro</b></summary>
 
-### Overview
-
-An intelligent productivity ecosystem designed to help users manage tasks, track goals, improve focus, and integrate AI-powered workflow automation.
+AI-powered productivity application combining Computer Vision and Pomodoro techniques.
 
 | Metric | Details |
 |---------|---------|
-| Stack | React, FastAPI, PostgreSQL, OpenAI |
-| Scale | Multi-user SaaS Architecture |
-| Performance | Optimized API Response Pipeline |
-| Security | JWT Authentication, RBAC |
-| Impact | Increased User Productivity & Focus |
-| Repository | [View Repository](https://github.com/yourusername/project) |
-
-#### Project Highlights
-
-- AI-powered productivity workflows
-- Intelligent task prioritization
-- Goal tracking system
-- Analytics dashboard
-- Modular scalable architecture
+| Stack | Python, OpenCV |
+| Scale | Productivity Application |
+| Performance | Real-Time Monitoring |
+| Security | Local Processing |
+| Impact | Improved User Focus |
+| Repository | https://github.com/Mayank-Kamdi/cv-focus-guard-ai-pomodoro-v3 |
 
 </details>
 
 <details>
-<summary><b>AI Learning Platform</b></summary>
+<summary><b>Luma AI Assistant</b></summary>
 
-### Overview
-
-An adaptive learning system utilizing AI-driven recommendations, learning analytics, and personalized content delivery.
+Personal AI assistant focused on productivity and automation.
 
 | Metric | Details |
 |---------|---------|
-| Stack | Next.js, Node.js, MongoDB |
-| Scale | Educational Platform |
-| Performance | Server-side Rendering |
-| Security | OAuth & Secure Authentication |
-| Impact | Personalized Learning Experience |
-| Repository | [View Repository](https://github.com/yourusername/project) |
-
-#### Project Highlights
-
-- Recommendation engine
-- Learning analytics
-- Adaptive learning paths
-- Real-time dashboards
-- Scalable architecture
+| Stack | Python, AI APIs |
+| Scale | AI Assistant Platform |
+| Performance | Fast Response System |
+| Security | Secure User Interaction |
+| Impact | Productivity Enhancement |
+| Repository | https://github.com/Mayank-Kamdi/luma-ai-assistant |
 
 </details>
 
 <details>
-<summary><b>Enterprise Analytics Dashboard</b></summary>
+<summary><b>Athira NEXUS</b></summary>
 
-### Overview
-
-A modern analytics platform providing business intelligence, reporting capabilities, and operational visibility.
+AI-powered student productivity ecosystem.
 
 | Metric | Details |
 |---------|---------|
-| Stack | React, Node.js, PostgreSQL |
-| Scale | Enterprise-grade Analytics |
-| Performance | High-Speed Data Processing |
-| Security | Enterprise Security Controls |
-| Impact | Data-driven Decision Making |
-| Repository | [View Repository](https://github.com/yourusername/project) |
-
-#### Project Highlights
-
-- Advanced visualizations
-- Real-time reporting
-- KPI monitoring
-- Data aggregation pipelines
-- Scalable infrastructure
+| Stack | React, Supabase |
+| Scale | Student Productivity Platform |
+| Performance | Real-Time Architecture |
+| Security | Authentication & Access Control |
+| Impact | Academic Productivity |
+| Repository | https://github.com/Mayank-Kamdi/Athira-NEXUS |
 
 </details>
 
 <details>
-<summary><b>AI-Powered Sign Language Recognition System</b></summary>
+<summary><b>Sign Language Recognition System</b></summary>
 
-### Overview
-
-A computer vision solution that translates sign language gestures into readable text and speech using deep learning.
+Computer Vision based sign language translation system.
 
 | Metric | Details |
 |---------|---------|
-| Stack | Python, TensorFlow, OpenCV |
+| Stack | Python, OpenCV, TensorFlow |
 | Scale | Accessibility Platform |
-| Performance | Real-time Inference |
-| Security | Secure Model Deployment |
-| Impact | Improved Accessibility |
-| Repository | [View Repository](https://github.com/yourusername/project) |
-
-#### Project Highlights
-
-- Gesture recognition
-- Computer vision pipeline
-- Real-time processing
-- Accessibility-focused design
-- Deep learning deployment
+| Performance | Real-Time Recognition |
+| Security | Local Model Execution |
+| Impact | Accessibility Enhancement |
+| Repository | https://github.com/Mayank-Kamdi/Sign-Langauge |
 
 </details>
 
@@ -214,66 +176,29 @@ A computer vision solution that translates sign language gestures into readable 
 
 # Experience
 
-## Software Engineering Intern — Company Name
+## Digital Marketing Executive — Noverra Growth Studio
 
-**Jan 2025 – Present**
+**2023 – Present**
 
-Worked on designing and developing scalable software systems, automation pipelines, and cloud-native solutions.
-
-### Scope of Work
-
-- Built production-ready applications
-- Improved application performance
-- Developed RESTful APIs
-- Collaborated with cross-functional teams
-- Participated in architecture discussions
+- Growth Marketing
+- Content Strategy
+- Brand Development
+- Analytics & Reporting
 
 ### Skills
 
-![](https://img.shields.io/badge/Python-111827?style=flat-square)
-![](https://img.shields.io/badge/AWS-312E81?style=flat-square)
-![](https://img.shields.io/badge/React-6D28D9?style=flat-square)
-![](https://img.shields.io/badge/Docker-7C3AED?style=flat-square)
+![](https://img.shields.io/badge/Digital%20Marketing-111827?style=flat-square)
+![](https://img.shields.io/badge/Growth%20Strategy-312E81?style=flat-square)
+![](https://img.shields.io/badge/Content%20Marketing-6D28D9?style=flat-square)
 
----
+## Digital Marketing Specialist — Digital Door Agency
 
-# Achievements
+**Current**
 
-<div align="center">
-
-| Recognition | Details |
-|------------|----------|
-| Open Source Contributor | Contributed to community-driven software projects |
-| AI Builder | Designed and deployed AI-powered applications |
-| Hackathon Participant | Developed innovative engineering solutions |
-| Technical Community Member | Mentored and collaborated with peers |
-| Engineering Projects | Built scalable and impactful software products |
-
-</div>
-
----
-
-# Certifications
-
-## AWS
-
-![](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws)
-![](https://img.shields.io/badge/AWS-Solutions%20Architect-232F3E?style=for-the-badge&logo=amazonaws)
-
-### Oracle
-
-![](https://img.shields.io/badge/Oracle-Java%20Foundations-F80000?style=for-the-badge&logo=oracle)
-![](https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle)
-
-### NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Programming-0F172A?style=for-the-badge)
-![](https://img.shields.io/badge/NPTEL-Data%20Science-312E81?style=for-the-badge)
-
-### Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
-![](https://img.shields.io/badge/Cisco-Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco)
+- Marketing Strategy
+- Campaign Management
+- Performance Optimization
+- Brand Positioning
 
 ---
 
@@ -281,20 +206,8 @@ Worked on designing and developing scalable software systems, automation pipelin
 
 <div align="center">
 
-<a href="https://leetcode.com">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com">
-<img src="https://img.shields.io/badge/HackerRank-Developer-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge"/>
+<a href="https://leetcode.com/u/Mayank-Kamdi/">
+<img src="https://img.shields.io/badge/LeetCode-Mayank%20Kamdi-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </div>
@@ -305,15 +218,15 @@ Worked on designing and developing scalable software systems, automation pipelin
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayank-Kamdi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayank-Kamdi&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-Kamdi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -323,7 +236,7 @@ Worked on designing and developing scalable software systems, automation pipelin
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mayank-Kamdi&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
@@ -333,17 +246,7 @@ Worked on designing and developing scalable software systems, automation pipelin
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayank-Kamdi&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -353,29 +256,25 @@ Worked on designing and developing scalable software systems, automation pipelin
 
 ```yaml
 Learning:
-  - Advanced System Design
-  - Machine Learning Engineering
-  - Cloud Native Infrastructure
-  - Distributed Systems
+  - Software Engineering
+  - Machine Learning
+  - System Design
 
 Building:
-  - AI Products
-  - Full Stack Applications
-  - Developer Tools
-  - Open Source Projects
+  - Athira NEXUS
+  - AI Productivity Systems
+  - Computer Vision Applications
 
 Exploring:
   - Generative AI
-  - Agentic Workflows
-  - MLOps
-  - Large Language Models
+  - Agentic AI
+  - Cloud Technologies
 
 Open To:
   - Software Engineering Internships
   - AI/ML Roles
   - Open Source Collaboration
-  - Product Engineering Opportunities
-```
+````
 
 ---
 
@@ -383,19 +282,15 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:kamdimayank20@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/yourprofile">
-<img src="https://img.shields.io/badge/LinkedIn-Network-312E81?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/yourusername">
+<a href="https://github.com/Mayank-Kamdi">
 <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://yourportfolio.com">
+<a href="https://portfolio-website-specalised-person.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -405,25 +300,9 @@ Open To:
 
 <div align="center">
 
-*"Engineering scalable systems, building intelligent products, and creating technology that delivers measurable impact."*
+*"Building intelligent systems, solving meaningful problems, and creating technology that drives real-world impact."*
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,25:1E1B4B,50:4C1D95,75:6D28D9,100:8B5CF6"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,30:312E81,60:6D28D9,100:8B5CF6"/>
-
-</div>## Hi there 👋
-
-<!--
-**Mayank-Kamdi/Mayank-Kamdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+```
