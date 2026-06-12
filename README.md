@@ -261,16 +261,6 @@ Computer Vision based sign language translation system.
 
 ---
 
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Mayank-Kamdi/Mayank-Kamdi/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</div>
-
----
-
 # Current Focus
 
 ```yaml
