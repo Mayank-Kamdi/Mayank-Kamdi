@@ -1,221 +1,11 @@
-# <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,25:1E1B4B,50:4C1D95,75:6D28D9,100:8B5CF6&text=Mayank%20Kamdi&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=950&lines=Software+Engineering+Student;AI+%26+Machine+Learning+Builder;Full+Stack+Developer;Founder+of+Athira+NEXUS;Building+Intelligent+Digital+Products;Open+Source+Contributor"/>
-
-<br/>
-
-![](https://img.shields.io/badge/B.Tech-Engineering-6D28D9?style=for-the-badge)
-![](https://img.shields.io/badge/Artificial%20Intelligence-Engineer-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/Full%20Stack-Developer-8B5CF6?style=for-the-badge)
-![](https://img.shields.io/badge/Product-Builder-4F46E5?style=for-the-badge)
-![](https://img.shields.io/badge/Open%20Source-Contributor-312E81?style=for-the-badge)
-
-<br/>
-
-![](https://img.shields.io/badge/Location-India-312E81?style=flat-square)
-![](https://img.shields.io/badge/Open%20To-Internships%20%7C%20AI%20Roles-7C3AED?style=flat-square)
-
-<br/><br/>
-
-<a href="https://portfolio-website-specalised-person.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mayank-kamdi">
-<img src="https://img.shields.io/badge/LinkedIn-312E81?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:kamdimayank20@gmail.com">
-<img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Mayank-Kamdi">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-![](https://komarev.com/ghpvc/?username=Mayank-Kamdi&style=flat-square&color=7C3AED)
-![](https://img.shields.io/github/followers/Mayank-Kamdi?style=flat-square&color=6D28D9)
-![](https://img.shields.io/github/stars/Mayank-Kamdi?style=flat-square&color=8B5CF6)
-
-</div>
-
----
-
-# About Me
-
-Software Engineering student passionate about building scalable software systems, AI-powered applications, and modern digital products.
-
-Currently building AI-first products, computer vision systems, productivity platforms, and developer-focused tools while strengthening expertise in Software Engineering, Artificial Intelligence, Machine Learning, and Full Stack Development.
-
-**Open To**
-- Software Engineering Internships
-- AI / ML Engineering Roles
-- Full Stack Development Opportunities
-- Open Source Collaboration
-- Startup Product Teams
-
----
-
-# Tech Stack
-
-### Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript" />
-</p>
-
-### Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
-</p>
-
-### Backend & Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase,supabase" />
-</p>
-
-### Cloud, DevOps & Tooling
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
-</p>
-
----
-
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|----------|------------|----------|
-| Machine Learning | Intermediate | Classification, Regression, Model Development |
-| Deep Learning | Intermediate | CNNs, Neural Networks |
-| Computer Vision | Intermediate | OpenCV, Gesture Recognition |
-| Generative AI | Advanced | AI Assistants, Prompt Engineering |
-| NLP | Intermediate | Language Models & Conversational Systems |
-| AI Product Development | Advanced | Product-Oriented AI Solutions |
-| Automation Systems | Advanced | Productivity Automation |
-| Full Stack AI Systems | Intermediate | AI + Backend + Frontend Integration |
-
----
-
-# Featured Projects
-
-<details>
-<summary><b>CV Focus Guard AI Pomodoro</b></summary>
-
-AI-powered productivity application combining Computer Vision and Pomodoro techniques.
-
-| Metric | Details |
-|---------|---------|
-| Stack | Python, OpenCV |
-| Scale | Productivity Application |
-| Performance | Real-Time Monitoring |
-| Security | Local Processing |
-| Impact | Improved User Focus |
-| Repository | https://github.com/Mayank-Kamdi/cv-focus-guard-ai-pomodoro-v3 |
-
-</details>
-
-<details>
-<summary><b>Luma AI Assistant</b></summary>
-
-Personal AI assistant focused on productivity and automation.
-
-| Metric | Details |
-|---------|---------|
-| Stack | Python, AI APIs |
-| Scale | AI Assistant Platform |
-| Performance | Fast Response System |
-| Security | Secure User Interaction |
-| Impact | Productivity Enhancement |
-| Repository | https://github.com/Mayank-Kamdi/luma-ai-assistant |
-
-</details>
-
-<details>
-<summary><b>Athira NEXUS</b></summary>
-
-AI-powered student productivity ecosystem.
-
-| Metric | Details |
-|---------|---------|
-| Stack | React, Supabase |
-| Scale | Student Productivity Platform |
-| Performance | Real-Time Architecture |
-| Security | Authentication & Access Control |
-| Impact | Academic Productivity |
-| Repository | https://github.com/Mayank-Kamdi/Athira-NEXUS |
-
-</details>
-
-<details>
-<summary><b>Sign Language Recognition System</b></summary>
-
-Computer Vision based sign language translation system.
-
-| Metric | Details |
-|---------|---------|
-| Stack | Python, OpenCV, TensorFlow |
-| Scale | Accessibility Platform |
-| Performance | Real-Time Recognition |
-| Security | Local Model Execution |
-| Impact | Accessibility Enhancement |
-| Repository | https://github.com/Mayank-Kamdi/Sign-Langauge |
-
-</details>
-
----
-
-# Experience
-
-## Digital Marketing Executive — Noverra Growth Studio
-
-**2023 – Present**
-
-- Growth Marketing
-- Content Strategy
-- Brand Development
-- Analytics & Reporting
-
-### Skills
-
-![](https://img.shields.io/badge/Digital%20Marketing-111827?style=flat-square)
-![](https://img.shields.io/badge/Growth%20Strategy-312E81?style=flat-square)
-![](https://img.shields.io/badge/Content%20Marketing-6D28D9?style=flat-square)
-
-## Digital Marketing Specialist — Digital Door Agency
-
-**Current**
-
-- Marketing Strategy
-- Campaign Management
-- Performance Optimization
-- Brand Positioning
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/Mayank-Kamdi/">
-<img src="https://img.shields.io/badge/LeetCode-Mayank%20Kamdi-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</div>
-
+```markdown
 ---
 
 # GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayank-Kamdi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayank-Kamdi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayank-Kamdi&theme=tokyonight&hide_border=true"/>
 
@@ -227,13 +17,21 @@ Computer Vision based sign language translation system.
 
 </div>
 
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayank-Kamdi&theme=tokyonight"/>
+
+</div>
+
 ---
 
 # GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mayank-Kamdi&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mayank-Kamdi&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -243,63 +41,75 @@ Computer Vision based sign language translation system.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayank-Kamdi&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayank-Kamdi&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
----
-
-# Current Focus
-
-```yaml
-Learning:
-  - Software Engineering
-  - Machine Learning
-  - System Design
-
-Building:
-  - Athira NEXUS
-  - AI Productivity Systems
-  - Computer Vision Applications
-
-Exploring:
-  - Generative AI
-  - Agentic AI
-  - Cloud Technologies
-
-Open To:
-  - Software Engineering Internships
-  - AI/ML Roles
-  - Open Source Collaboration
-````
-
----
-
-# Connect
+<br/>
 
 <div align="center">
 
-<a href="mailto:kamdimayank20@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Mayank-Kamdi">
-<img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://portfolio-website-specalised-person.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mayank-Kamdi&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
 ---
 
+# Contribution Snake
+
 <div align="center">
 
-*"Building intelligent systems, solving meaningful problems, and creating technology that drives real-world impact."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,25:1E1B4B,50:4C1D95,75:6D28D9,100:8B5CF6"/>
+<img src="https://raw.githubusercontent.com/Mayank-Kamdi/Mayank-Kamdi/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 
 </div>
+
+---
+
+# Contribution Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayank-Kamdi&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayank-Kamdi&theme=tokyonight"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayank-Kamdi&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mayank-Kamdi&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
 ```
+.github/workflows/snake.yml
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Mayank-Kamdi
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
